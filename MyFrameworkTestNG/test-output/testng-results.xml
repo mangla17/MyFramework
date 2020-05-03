@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="619" started-at="2020-05-02T15:21:40Z" finished-at="2020-05-02T15:21:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="619" started-at="2020-05-02T15:21:40Z" finished-at="2020-05-02T15:21:41Z">
+      <class name="com.testing.reports.MyReportTest">
+        <test-method status="PASS" signature="testBeforeClass()[pri:0, instance:com.testing.reports.MyReportTest@3ffc5af1]" name="testBeforeClass" is-config="true" duration-ms="241" started-at="2020-05-02T20:51:40Z" finished-at="2020-05-02T20:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeClass -->
+        <test-method status="PASS" signature="testFirst()[pri:0, instance:com.testing.reports.MyReportTest@3ffc5af1]" name="testFirst" duration-ms="15" started-at="2020-05-02T20:51:41Z" finished-at="2020-05-02T20:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirst -->
+        <test-method status="PASS" signature="testSecond()[pri:0, instance:com.testing.reports.MyReportTest@3ffc5af1]" name="testSecond" duration-ms="0" started-at="2020-05-02T20:51:41Z" finished-at="2020-05-02T20:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSecond -->
+        <test-method status="PASS" signature="testAfterClass()[pri:0, instance:com.testing.reports.MyReportTest@3ffc5af1]" name="testAfterClass" is-config="true" duration-ms="336" started-at="2020-05-02T20:51:41Z" finished-at="2020-05-02T20:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterClass -->
+      </class> <!-- com.testing.reports.MyReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
